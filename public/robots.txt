@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jajanan-pasarku.web.app/sitemap.xml
